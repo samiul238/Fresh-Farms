@@ -103,8 +103,15 @@
 .promo-img {
     width: 100%;
     overflow: hidden;
-    border-radius: 8px
+    border-radius: 8px;
+   position: relative;
 }
+/* .promo-img .none h2{
+    position: absolute;
+    top: 200px;
+    right: 300px;
+    color: azure;
+} */
 
 .promo-img a {
     width: 100%
@@ -142,7 +149,7 @@
 
 .countdown-part {
     padding: 80px 0px;
-    background: linear-gradient(to left, #c3ffda, #a1f3c0)
+    background: linear-gradient(to left, #427756, #baf8d3)
 }
 
 .countdown-content {
@@ -154,7 +161,8 @@
     font-weight: 700;
     line-height: 48px;
     text-transform: uppercase;
-    margin-bottom: 12px
+    margin-bottom: 12px;
+   
 }
 
 .countdown-content p {
