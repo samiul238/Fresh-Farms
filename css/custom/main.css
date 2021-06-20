@@ -4147,8 +4147,7 @@ tbody tr td:last-child {
 }
 .visual-wrap:hover .visual-icon i {
     color: var(--white);
-    /* background: var(--primary); */
-    background: #535c68;
+    background: #40A944;
 }
 .visual-icon {
     margin-right: 20px;
@@ -4161,9 +4160,9 @@ tbody tr td:last-child {
     border-radius: 50%;
     text-align: center;
     display: inline-block;
-    color: #535c68;
+    color: #40A944;
     background: var(--white);
-    border: 3px double #535c68;
+    border: 3px double #40A944;
     box-shadow: var(--primary-bshadow);
     transition: all linear 0.3s;
     -webkit-transition: all linear 0.3s;
@@ -4228,7 +4227,7 @@ tbody tr td:last-child {
     border-radius: 50%;
     text-align: center;
     /* color: var(--primary); */
-    color: #30336b;
+    color: #40A944;
     background: #fff;
     /* text-shadow: var(--primary-tshadow); */
     /* box-shadow: var(--primary-bshadow); */
@@ -4244,13 +4243,13 @@ tbody tr td:last-child {
     transition:.5s ease-in;
     /* color: var(--white); */
     /* background: var(--primary); */
-    background:#30336b ;
+    background:#40A944 ;
 }
 .footer-title {
     margin-bottom: 25px;
     letter-spacing: -0.3px;
     text-transform: capitalize;
-    color:#192a56;
+    color:#40A944;
     font-weight: 700;
 }
 .footer-widget.contact {
